@@ -18,9 +18,9 @@ Implementação de um algoritmo de controle analógico PID em malha fechada util
 * **`INITIALIZATION` (Inicialização):** Setup dos valores iniciais das variáveis à serem utilizadas.
 * **`RUN` (Automático):** Execução do controle PID com cálculo de erro dinâmico.
 * **`MANUAL` (Manual):** Controle direto da planta pelo operador.
-* **`SAFE` (Segurança):** Modo de falha que desativa atuadores para proteger o sistema.
+* **`SAFE` (Segurança):** Modo de falha que determina um valor de sinal de saída seguro para proteger o sistema.
 * **Tecnologias:** Linguagem C, Sistemas Embarcados, Teoria de Controle, Arquitetura Microchip PIC.
-* **📂 Arquivos do Projeto:** [Acessar Código](./controle-pid/)
+* **📂 Arquivos do Projeto:** [Acessar Código e Documentação](./controle-pid/)
 * **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./controle-pid/documento_controlador_pid_digital_pic18f1220.pdf)
 * **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
 
