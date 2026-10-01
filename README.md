@@ -11,7 +11,7 @@ Desenvolvimento de um compilador customizado voltado para a arquitetura do micro
 * **Tecnologias:** Linguagem C, Python, Arquitetura Microchip PIC.
 * **📂 Arquivos do Projeto:** [Acessar Código e Documentação](./compilador-pic18f/)
 * **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./compilador-pic18f/documento_compilador.pdf)
-* **💻 Demonstração:** https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
 
 ### 2. Software Embarcado de Controle PID Quadrimodal para Microcontrolador PIC18F1220
 Implementação de um algoritmo de controle analógico PID em malha fechada utilizando o PIC18F1220. O sistema conta com uma máquina de estados robusta contendo 4 modos de operação bem definidos:
@@ -22,12 +22,14 @@ Implementação de um algoritmo de controle analógico PID em malha fechada util
 * **Tecnologias:** Linguagem C, Sistemas Embarcados, Teoria de Controle, Arquitetura Microchip PIC.
 * **📂 Arquivos do Projeto:** [Acessar Código](./controle-pid/)
 * **📄 Relatório Acadêmico:** [Abrir PDF do Trabalho](./controle-pid/documento_controlador_pid_digital_pic18f1220.pdf)
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
 
 ### 3. Interface SCADA para Controle de Temperatura
 Criação de um sistema de supervisão, controle e aquisição de dados (SCADA) integrado a uma malha de controle de temperatura ambiente/industrial.
 * **Tecnologias:** MyScada, Node-RED, Protocolo de Comunicação Industrial Modbus.
 * **📂 Arquivos do Projeto:** [Acessar Fluxos e Telas](./interface-scada/)
 * **📄 Relatório de Implementação:** [Abrir PDF do Trabalho](./interface-scada/documento_scada.pdf)
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.jr5lr3pjvqma)
 
 ---
 
@@ -37,5 +39,5 @@ Para visualizar os detalhes de cada trabalho, você pode entrar nas pastas corre
 
 ---
 **Contato:**
-* Meu LinkedIn: www.linkedin.com/in/roger-almeida-gomes-46a295166
+* Meu LinkedIn: [Roger Almeida](www.linkedin.com/in/roger-almeida-gomes-46a295166)
 * E-mail: rogeralmeida650@gmail.com
