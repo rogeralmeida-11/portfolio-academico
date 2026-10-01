@@ -14,9 +14,9 @@ Desenvolvimento de um compilador customizado voltado para a arquitetura do micro
 
 ### 2. Software Embarcado de Controle PID Quadrimodal
 Implementação de um algoritmo de controle analógico PID em malha fechada utilizando o PIC18F1220. O sistema conta com uma máquina de estados robusta contendo 4 modos de operação bem definidos:
-* **`INI` (Inicialização):** Setup de periféricos e checagem de sensores.
+* **`INITIALIZATION` (Inicialização):** Setup dos valores iniciais das variáveis à serem utilizadas.
 * **`RUN` (Automático):** Execução do controle PID com cálculo de erro dinâmico.
-* **`MAN` (Manual):** Controle direto da planta pelo operador.
+* **`MANUAL` (Manual):** Controle direto da planta pelo operador.
 * **`SAFE` (Segurança):** Modo de falha que desativa atuadores para proteger o sistema.
 * **Tecnologias:** Linguagem C, Sistemas Embarcados, Teoria de Controle.
 * **📂 Arquivos do Projeto:** [Acessar Código](./controle-pid/)
