@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório de portfólio! Aqui centralizo meus principais tra
 Desenvolvimento de um compilador customizado voltado para a arquitetura do microcontrolador PIC18F1220, traduzindo instruções em C para código de máquina.
 * **Tecnologias:** Linguagem C, Python, Arquitetura Microchip PIC.
 * **📂 Arquivos do Projeto:** [Acessar Código e Documentação](./compilador-pic18f/)
-* **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./compilador-pic18f/documento_compilador.pdf)
+* **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./compilador-pic18f/documento_compilador_c_pic18f1220.pdf)
 * **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
 
 ### 2. Software Embarcado de Controle PID Quadrimodal para Microcontrolador PIC18F1220
