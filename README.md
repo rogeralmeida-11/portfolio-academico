@@ -11,7 +11,7 @@ Desenvolvimento de um compilador customizado voltado para a arquitetura do micro
 * **Tecnologias:** Linguagem C, Python, Arquitetura Microchip PIC.
 * **📂 Arquivos do Projeto:** [Acessar Código e Documentação](./compilador-pic18f/)
 * **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./compilador-pic18f/documento_compilador_c_pic18f1220.pdf)
-* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/projetos#h.cnnp8pvlqpge)
 
 ### 2. Software Embarcado de Controle PID Quadrimodal para Microcontrolador PIC18F1220
 Implementação de um algoritmo de controle analógico PID em malha fechada utilizando o PIC18F1220. O sistema conta com uma máquina de estados robusta contendo 4 modos de operação bem definidos:
@@ -22,14 +22,14 @@ Implementação de um algoritmo de controle analógico PID em malha fechada util
 * **Tecnologias:** Linguagem C, Sistemas Embarcados, Teoria de Controle, Arquitetura Microchip PIC.
 * **📂 Arquivos do Projeto:** [Acessar Código e Documentação](./controle-pid/)
 * **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./controle-pid/documento_controlador_pid_digital_pic18f1220.pdf)
-* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.cnnp8pvlqpge)
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/projetos#h.mh7tk3b3zk04)
 
 ### 3. Interface SCADA para Controle de Temperatura
 Criação de um sistema de supervisão, controle e aquisição de dados (SCADA) integrado a uma malha de controle de temperatura ambiente/industrial.
 * **Tecnologias:** MyScada, Node-RED, Protocolo de Comunicação Industrial Modbus.
 * **📂 Arquivos do Projeto:** [Acessar Fluxos e Telas](./interface-scada/)
 * **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./interface-scada/documento_scada.pdf)
-* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/trabalhos#h.jr5lr3pjvqma)
+* **📷 Demonstração:** [Ver Fotos e Resultados deste Projeto](https://sites.google.com/view/roger-almeida/projetos#h.jr5lr3pjvqma)
 
 ---
 
