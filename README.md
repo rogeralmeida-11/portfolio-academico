@@ -43,7 +43,7 @@ Interface de supervisão (SCADA) desenvolvida no MyScada para controlar a temper
 
 * **Tecnologias:** MyScada, Node-RED, Modbus.
 * **📂 Arquivos do Projeto:** [Acessar Fluxos e Telas](./interface-scada/)
-* **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./interface-scada/documento_scada.pdf)
+* **📄 Relatório Técnico:** [Abrir PDF do Trabalho](./interface-scada/documento_interface_scada.pdf)
 * **📷 Demonstração:** [Ver imagens e vídeo do projeto](https://sites.google.com/view/roger-almeida/projetos#h.jr5lr3pjvqma)
 
 ---
