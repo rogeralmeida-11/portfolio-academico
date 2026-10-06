@@ -1,0 +1,2 @@
+Refresh;Name;Description;Connection alias;zoomEnabled;View Access;Write Access
+1000;esquerdo;;myscada_to_nodered;Yes;-1;-1

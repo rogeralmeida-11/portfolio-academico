@@ -1,0 +1,1 @@
+{"connections":[{"plcType":11,"alias":"script","id":-1,"ip":""},{"plcType":6,"alias":"myscada_to_nodered","id":-1,"ip":"127.0.0.1","port":10502,"optwindow":50,"hide":false,"deviceID":1}]}

@@ -1,0 +1,1 @@
+{"list":[{"name":"layout_esquerdo","desc":"","left":{"fileName":"esquerdo","enabled":true,"scaled":false,"sliding":true,"background":false,"spacing":5.0,"sizeOfTab":5,"colorOfTab":"#333333","opacityOfTab":0.7999999999999999},"overlay":[]}]}

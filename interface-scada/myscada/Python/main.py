@@ -1,0 +1,2 @@
+import myscada
+myscada.init()
