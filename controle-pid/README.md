@@ -29,7 +29,7 @@ Controlador PID em malha fechada, implementado em C no PIC18F1220, com máquina 
 ## Como simular
 
 1. Abra o arquivo do Proteus no Proteus 8.
-2. Dê um duplo clique no PIC18F1220 e, em **Program File**, selecione o arquivo `.hex`. `[PREENCHER: se o projeto já vem com o .hex carregado, troque este passo por essa informação]`
+2. Dê um duplo clique no PIC18F1220 e, em **Program File**, selecione o arquivo `.hex`.
 3. Inicie a simulação. O estado do controlador é indicado pelos LEDs do circuito.
 
 ## Resultado
