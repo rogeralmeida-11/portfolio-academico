@@ -10,7 +10,6 @@ Interface de supervisão desenvolvida no mySCADA para controlar a temperatura de
 |---|---|
 | `nodered_trabalho_supervisorio.json` | Flow do Node-RED: servidor Modbus, controlador PID e planta simulada |
 | `mySCADA/` | Projeto exportado do myDESIGNER (telas, layout lateral e gráfico) |
-| `documento_interface_scada.pdf` | Relatório técnico |
 
 ## Ferramentas
 
