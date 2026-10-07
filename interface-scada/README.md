@@ -27,7 +27,7 @@ Interface de supervisão desenvolvida no mySCADA para controlar a temperatura de
 ## Como executar
 
 1. No Node-RED, use **Menu → Importar** e selecione `nodered_trabalho_supervisorio.json`. Clique em **Deploy**.
-2. No myDESIGNER, abra o projeto da pasta `mySCADA/` `[PREENCHER: como importar o projeto exportado]`.
+2. No myDESIGNER, abra o projeto da pasta `mySCADA/`clicando com o botão direito em cima de Project e selecionando a segunda opção (Open Project).
 3. Configure a conexão Modbus TCP do mySCADA com os dados abaixo e inicie a visualização.
 
 | Parâmetro | Valor |
