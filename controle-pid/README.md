@@ -23,7 +23,7 @@ Controlador PID em malha fechada, implementado em C no PIC18F1220, com máquina 
 
 ## Ferramentas
 
-- Compilador `[PREENCHER: por exemplo MPLAB XC8, com versão]` e IDE `[PREENCHER]`
+- PIC C Compiler (CCS), pacote PCWHD, versão 5.007 (compilador PCH, para PIC18)
 - Proteus 8
 
 ## Como simular
