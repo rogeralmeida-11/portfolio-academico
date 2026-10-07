@@ -17,9 +17,9 @@ Controlador PID em malha fechada, implementado em C no PIC18F1220, com máquina 
 
 | Arquivo | Função |
 |---|---|
-| `[PREENCHER: arquivo(s) .c e .h]` | Código-fonte do firmware |
-| `[PREENCHER: arquivo .hex, se estiver na pasta]` | Programa compilado para o PIC |
-| `[PREENCHER: arquivo do Proteus (.pdsprj)]` | Circuito de simulação |
+| `digital_pid_logic.c` | Código-fonte do firmware |
+| `digital_pid_logic.hex` | Programa compilado para o PIC |
+| `simulation_pic18f1220_digital_pid.pdsprj` | Circuito de simulação no Proteus |
 
 ## Ferramentas
 
