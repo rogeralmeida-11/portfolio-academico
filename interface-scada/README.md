@@ -14,7 +14,7 @@ Interface de supervisão desenvolvida no mySCADA para controlar a temperatura de
 
 ## Ferramentas
 
-- Node-RED `[PREENCHER: versão]`
+- Node-RED `2.2.2`
 - myDESIGNER / mySCADA 7.0.30
 - Ambiente usado: máquina virtual Lubuntu 18.04 (VirtualBox), com o mySCADA e o Node-RED na mesma VM
 
