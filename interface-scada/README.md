@@ -2,7 +2,7 @@
 
 Interface de supervisão desenvolvida no mySCADA para controlar a temperatura de uma planta simulada no Node-RED. A comunicação é feita por **Modbus TCP**: o mySCADA é o cliente e o Node-RED é o servidor.
 
-📄 Relatório completo: [documento_scada.pdf](./documento_scada.pdf)
+📄 Relatório completo: [documento_scada.pdf](./documento_interface_scada.pdf)
 
 ## Arquivos
 
@@ -10,7 +10,7 @@ Interface de supervisão desenvolvida no mySCADA para controlar a temperatura de
 |---|---|
 | `nodered_trabalho_supervisorio.json` | Flow do Node-RED: servidor Modbus, controlador PID e planta simulada |
 | `mySCADA/` | Projeto exportado do myDESIGNER (telas, layout lateral e gráfico) |
-| `documento_scada.pdf` | Relatório técnico |
+| `documento_interface_scada.pdf` | Relatório técnico |
 
 ## Ferramentas
 
