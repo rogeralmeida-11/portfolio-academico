@@ -15,7 +15,6 @@ Compilador simples, escrito em Python, que traduz um código em C para Assembly 
 | `asm_lib.py` | Biblioteca de geração de Assembly (mapeamento de variáveis e instruções) |
 | `hex_lib.py` | Montador: converte as instruções em opcodes e escreve o Intel HEX |
 | `simulation_circuit.pdsprj` | Arquivo do circuito de simulação no Proteus |
-| `[PREENCHER: arquivos gerados na pasta, como .gimple, .asm, lista de opcodes e .hex de exemplo]` | |
 
 ## Ferramentas
 
